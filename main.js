@@ -1,5 +1,3 @@
-console.log('ciao');
-
 let app = new Vue({
     el: "#app",
     data: {
@@ -16,7 +14,6 @@ let app = new Vue({
             });
             
         }
-        console.log(this.mailList);            
-
+        console.log(this.mailList);
     }
 });
