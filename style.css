@@ -7,3 +7,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+ol li {
+    padding: 0.5rem;
+}
